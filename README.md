@@ -1,16 +1,21 @@
-# digital_register
+digital_register
 
-A new Flutter project.
+A cross-platform digital register system built with Flutter and Firebase.
+It helps manage residents, visitors, and admins digitally across Android, iOS, Web, and desktop.
 
-## Getting Started
+Getting Started
 
-This project is a starting point for a Flutter application.
+1) Clone the repo:
+git clone https://github.com/abhisheksinghaitd-ai/digital_register.git
 
-A few resources to get you started if this is your first Flutter project:
+cd digital_register
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2) Install dependencies:
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3) Run the app:
+flutter run
+
+License
+
+This project is licensed under the MIT License.
