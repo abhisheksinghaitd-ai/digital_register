@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17172294094",
+    "project_id": "modern-register",
+    "storage_bucket": "modern-register.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17172294094:android:5d975811f5784f0dffe39f",
+        "android_client_info": {
+          "package_name": "com.example.digital_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsdM81uTMeIqfJ3smxCHL1D-4CsLK2cho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
