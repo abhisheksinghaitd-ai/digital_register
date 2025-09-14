@@ -174,6 +174,7 @@ Future<void> _submitForm() async {
     required IconData icon,
     TextInputType keyboardType = TextInputType.text,
     List<TextInputFormatter>? formatters,
+    String? hint
    
    
   }) {
@@ -203,6 +204,7 @@ Future<void> _submitForm() async {
         decoration: InputDecoration(
           prefixIcon: Icon(icon, color: theme.iconTheme.color),
           labelText: label,
+          hintText: hint,
           labelStyle: GoogleFonts.poppins(
             fontWeight: FontWeight.w500,
             color:
@@ -306,6 +308,8 @@ Future<void> _submitForm() async {
               controller: numController,
               icon: Icons.phone,
               keyboardType: TextInputType.number,
+             hint: "Use only 8563087734" ,
+              
               
               formatters: [
                 FilteringTextInputFormatter.digitsOnly,
@@ -377,3 +381,4 @@ Future<void> _submitForm() async {
     );
   }
 }
+
