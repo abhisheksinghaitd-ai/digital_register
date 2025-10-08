@@ -7,6 +7,7 @@ It helps manage residents, visitors, and admins digitally across Android, iOS, W
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9f5a34b3-865d-4a05-812c-ff6da11769c1" width="220" />
+  <img src="https://github.com/user-attachments/assets/c9d5739b-8b84-41ec-8ae6-c004f4249fdf" width="220" />
 </p>
 
 
@@ -18,7 +19,6 @@ It helps manage residents, visitors, and admins digitally across Android, iOS, W
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/89e2c3d7-3fd5-49e5-8c9b-2e73c01351c4" width="220" />
-  <img src="https://github.com/user-attachments/assets/c9d5739b-8b84-41ec-8ae6-c004f4249fdf" width="220" />
   <img src="https://github.com/user-attachments/assets/f55ca4d9-8102-4cef-a3ed-28ad6ee1236e" width="220" />
 </p>
 
