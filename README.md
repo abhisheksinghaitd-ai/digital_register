@@ -22,7 +22,7 @@ It helps manage residents, visitors, and admins digitally across Android, iOS, W
 
 ---
 
-### 👤 User UI
+### 👤 Resident UI
 <p align="center">
   <img src="https://github.com/user-attachments/assets/12ed6452-6e65-4cf4-a026-b57b9c1e8c9d" width="220" />
   <img src="https://github.com/user-attachments/assets/57386d2a-c650-41cd-98c5-3f47507f0a7e" width="220" />
